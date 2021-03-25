@@ -1,0 +1,23 @@
+.head {
+    color: rgb(241, 231, 77);
+    font-family: 'Staatliches', cursive;
+}
+.main{
+    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+}
+
+.para {
+    color: #3557E2 ;
+    font-family: 'Vampiro One', cursive;
+    border: solid;
+    border-color: #FB2C2C;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.info{
+    color: rgb(167, 255, 255);
+}
